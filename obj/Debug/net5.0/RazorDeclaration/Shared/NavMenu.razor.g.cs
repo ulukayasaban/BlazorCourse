@@ -90,7 +90,7 @@ using BlazorCourse.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/sabanulukaya/Documents/Blazor Udemy Uygulamaları/BlazorCourse/BlazorCourse/Shared/NavMenu.razor"
+#line 33 "/Users/sabanulukaya/Documents/Blazor Udemy Uygulamaları/BlazorCourse/BlazorCourse/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

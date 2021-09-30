@@ -82,6 +82,13 @@ using BlazorCourse.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "/Users/sabanulukaya/Documents/Blazor Udemy Uygulamaları/BlazorCourse/BlazorCourse/Pages/Index.razor"
+using Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
